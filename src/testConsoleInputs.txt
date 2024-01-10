@@ -1,0 +1,4 @@
+Please print this string: abc
+
+1 0
+2 0
